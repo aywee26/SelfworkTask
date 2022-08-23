@@ -1,4 +1,4 @@
-﻿namespace SelfworkTask.Models;
+﻿namespace SelfworkTask.Library.Models;
 
 public class RGDialogsClients
 {

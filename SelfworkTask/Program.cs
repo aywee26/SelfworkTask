@@ -1,4 +1,4 @@
-using SelfworkTask.Services;
+using SelfworkTask.Library.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<IDialogSearchService, DialogSearchService>();

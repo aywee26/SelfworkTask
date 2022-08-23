@@ -1,7 +1,7 @@
 ﻿using Ardalis.GuardClauses;
-using SelfworkTask.Models;
+using SelfworkTask.Library.Models;
 
-namespace SelfworkTask.Services;
+namespace SelfworkTask.Library.Services;
 
 public class DialogSearchService : IDialogSearchService
 {

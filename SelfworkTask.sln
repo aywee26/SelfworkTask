@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfworkTask", "SelfworkTask\SelfworkTask.csproj", "{6AAC3CF0-181F-4362-959C-F0AF2729A152}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfworkTask", "SelfworkTask\SelfworkTask.csproj", "{6AAC3CF0-181F-4362-959C-F0AF2729A152}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfworkTask.Tests", "SelfworkTask.Tests\SelfworkTask.Tests.csproj", "{F3BAECB6-2333-4918-B099-A0A286E6CCF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfworkTask.Tests", "SelfworkTask.Tests\SelfworkTask.Tests.csproj", "{F3BAECB6-2333-4918-B099-A0A286E6CCF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfworkTask.Library", "SelfworkTask.Library\SelfworkTask.Library.csproj", "{0F7A4E20-5D35-474F-8054-DE9C29F6B5ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F3BAECB6-2333-4918-B099-A0A286E6CCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3BAECB6-2333-4918-B099-A0A286E6CCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3BAECB6-2333-4918-B099-A0A286E6CCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7A4E20-5D35-474F-8054-DE9C29F6B5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7A4E20-5D35-474F-8054-DE9C29F6B5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7A4E20-5D35-474F-8054-DE9C29F6B5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7A4E20-5D35-474F-8054-DE9C29F6B5ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

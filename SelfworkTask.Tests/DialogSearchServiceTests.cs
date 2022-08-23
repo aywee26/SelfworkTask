@@ -1,4 +1,4 @@
-using SelfworkTask.Services;
+using SelfworkTask.Library.Services;
 
 namespace SelfworkTask.Tests;
 

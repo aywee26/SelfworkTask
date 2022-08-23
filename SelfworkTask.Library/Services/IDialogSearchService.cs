@@ -1,4 +1,4 @@
-﻿namespace SelfworkTask.Services;
+﻿namespace SelfworkTask.Library.Services;
 
 public interface IDialogSearchService
 {

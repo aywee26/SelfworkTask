@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SelfworkTask.Services;
+using SelfworkTask.Library.Services;
 
 namespace SelfworkTask.Controllers
 {

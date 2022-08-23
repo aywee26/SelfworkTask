@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SelfworkTask\SelfworkTask.csproj" />
+    <ProjectReference Include="..\SelfworkTask.Library\SelfworkTask.Library.csproj" />
   </ItemGroup>
 
 </Project>
